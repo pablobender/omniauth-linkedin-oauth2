@@ -1,6 +1,6 @@
 # OmniAuth LinkedIn OAuth2 Strategy
 
-[![Build Status](https://travis-ci.org/decioferreira/omniauth-linkedin-oauth2.png?branch=master)](https://travis-ci.org/decioferreira/omniauth-linkedin-oauth2)
+[![Build Status](https://travis-ci.org/pablobender/omniauth-linkedin-oauth2.png?branch=master)](https://travis-ci.org/pablobender/omniauth-linkedin-oauth2)
 
 A LinkedIn OAuth2 strategy for OmniAuth.
 
